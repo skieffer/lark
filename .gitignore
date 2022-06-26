@@ -8,3 +8,6 @@ tags
 .cache
 /dist
 /build
+venv
+.idea
+*.egg-info
